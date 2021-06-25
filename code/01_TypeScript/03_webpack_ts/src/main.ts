@@ -1,4 +1,4 @@
-// import './01_接口'
-import './02_函数类型'
+// import './01_泛型'
+import './02_多个泛型参数的函数'
 
 document.write('hi, fuuka')
