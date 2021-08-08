@@ -1,0 +1,1 @@
+!function(){"use strict";const n={name:"taka",age:32};console.log(n)}();
