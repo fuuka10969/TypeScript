@@ -1,4 +1,4 @@
-// import './01_泛型'
-import './02_多个泛型参数的函数'
+// import './01_声明文件'
+import './02_内置对象'
 
 document.write('hi, fuuka')
